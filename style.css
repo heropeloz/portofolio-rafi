@@ -98,7 +98,7 @@ transform:translateY(-2px);
 width:260px;
 height:260px;
 object-fit:cover;
-border-radius:60px;
+border-radius:80px;
 border:6px solid rgb(94, 82, 64);
 box-shadow:0 5px 20px rgba(0,0,0,.2);
 }
